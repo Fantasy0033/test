@@ -1,0 +1,27 @@
+<svg width="70.000000" height="70.000000" viewBox="0 0 70 70" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<desc>
+			Created with Pixso.
+	</desc>
+	<defs>
+		<filter id="filter_2_3226_dd" x="0.000000" y="0.000000" width="70.000000" height="70.000000" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+			<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+			<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+			<feOffset dx="0" dy="1"/>
+			<feGaussianBlur stdDeviation="5"/>
+			<feComposite in2="hardAlpha" operator="out" k2="-1" k3="1"/>
+			<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.1 0"/>
+			<feBlend mode="normal" in2="BackgroundImageFix" result="effect_dropShadow_1"/>
+			<feBlend mode="normal" in="SourceGraphic" in2="effect_dropShadow_1" result="shape"/>
+		</filter>
+		<linearGradient id="paint_linear_2_3227_0" x1="54.999992" y1="34.000000" x2="15.000000" y2="34.000000" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#001C54"/>
+			<stop offset="1.000000" stop-color="#001C54"/>
+		</linearGradient>
+	</defs>
+	<g filter="url(#filter_2_3226_dd)">
+		<path id="Ellipse 1" d="M55 34C55 45.04 46.04 54 35 54C23.95 54 15 45.04 15 34C15 22.95 23.95 14 35 14C46.04 14 55 22.95 55 34Z" fill="url(#paint_linear_2_3227_0)" fill-opacity="1.000000" fill-rule="nonzero"/>
+		<path id="Ellipse 2" d="M53 34C53 43.94 44.94 52 35 52C25.05 52 17 43.94 17 34C17 24.05 25.05 16 35 16C44.94 16 53 24.05 53 34Z" fill="#FCFCFC" fill-opacity="0" fill-rule="nonzero"/>
+		<path id="Ellipse 2" d="M35 52C44.94 52 53 43.94 53 34C53 24.05 44.94 16 35 16C25.05 16 17 24.05 17 34C17 43.94 25.05 52 35 52ZM41.42 49.52Q38.46 50.75 35 50.75Q31.53 50.75 28.56 49.52Q25.6 48.29 23.15 45.84Q20.7 43.39 19.47 40.42Q18.25 37.46 18.25 34Q18.25 30.53 19.47 27.56Q20.7 24.6 23.15 22.15Q25.6 19.7 28.56 18.47Q31.53 17.25 35 17.25Q38.46 17.25 41.42 18.47Q44.39 19.7 46.84 22.15Q49.29 24.6 50.52 27.56Q51.75 30.53 51.75 34Q51.75 37.46 50.52 40.43Q49.29 43.39 46.84 45.84Q44.39 48.29 41.42 49.52Z" fill="#FFFFFF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Vector" d="M34.5 26.18L34.49 26.18C30.36 26.18 27 29.53 27 33.66C27 35.3 27.52 36.82 28.42 38.05L27.49 40.83L30.37 39.91C31.56 40.7 32.97 41.15 34.5 41.15C38.63 41.15 42 37.79 42 33.66C42 29.54 38.63 26.18 34.5 26.18ZM38.86 36.75C38.68 37.26 37.96 37.68 37.39 37.81C37 37.89 36.49 37.96 34.76 37.24C32.56 36.33 31.14 34.1 31.03 33.95C30.92 33.81 30.14 32.77 30.14 31.69C30.14 30.62 30.68 30.09 30.9 29.87C31.09 29.69 31.38 29.6 31.67 29.6C31.76 29.6 31.85 29.61 31.92 29.61C32.14 29.62 32.25 29.63 32.4 29.98C32.58 30.41 33.02 31.49 33.07 31.6C33.13 31.71 33.18 31.86 33.1 32C33.03 32.15 32.97 32.22 32.86 32.35C32.75 32.48 32.65 32.57 32.54 32.71C32.43 32.83 32.32 32.96 32.45 33.18C32.58 33.39 33.02 34.11 33.66 34.69C34.5 35.43 35.18 35.67 35.42 35.77C35.6 35.84 35.82 35.83 35.95 35.69C36.12 35.5 36.33 35.21 36.54 34.91C36.69 34.7 36.88 34.67 37.08 34.75C37.28 34.82 38.35 35.35 38.57 35.46C38.79 35.57 38.94 35.62 38.99 35.71C39.04 35.8 39.04 36.24 38.86 36.75Z" fill="#FFFFFF" fill-opacity="1.000000" fill-rule="evenodd"/>
+	</g>
+</svg>

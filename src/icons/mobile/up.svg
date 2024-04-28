@@ -1,0 +1,20 @@
+<svg width="47.000000" height="17.000000" viewBox="0 0 47 17" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<desc>
+			Created with Pixso.
+	</desc>
+	<defs>
+		<filter id="filter_2_2957_dd" x="-0.570923" y="-0.001343" width="46.918579" height="16.710815" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+			<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+			<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+			<feOffset dx="0" dy="2.57087"/>
+			<feGaussianBlur stdDeviation="0.856958"/>
+			<feComposite in2="hardAlpha" operator="out" k2="-1" k3="1"/>
+			<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.25 0"/>
+			<feBlend mode="normal" in2="BackgroundImageFix" result="effect_dropShadow_1"/>
+			<feBlend mode="normal" in="SourceGraphic" in2="effect_dropShadow_1" result="shape"/>
+		</filter>
+	</defs>
+	<g opacity="0.700000" filter="url(#filter_2_2957_dd)">
+		<path d="M6.53 11.56L2 11.56L23.05 -0.01L43.77 11.56L39.24 11.56L23.05 2.62L6.53 11.56Z" fill="#001857" fill-opacity="1.000000" fill-rule="nonzero"/>
+	</g>
+</svg>

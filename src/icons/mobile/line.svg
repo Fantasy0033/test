@@ -1,0 +1,13 @@
+<svg width="245.000000" height="8.000000" viewBox="0 0 245 8" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<desc>
+			Created with Pixso.
+	</desc>
+	<defs>
+		<linearGradient id="paint_linear_2_3196_0" x1="244.039368" y1="3.041504" x2="-0.900391" y2="3.041504" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#001C54"/>
+			<stop offset="1.000000" stop-color="#001C54"/>
+		</linearGradient>
+	</defs>
+	<path id="Ellipse 2" d="M123.79 3.04C123.79 4.13 122.91 5.02 121.81 5.02C120.72 5.02 119.83 4.13 119.83 3.04C119.83 1.94 120.72 1.06 121.81 1.06C122.91 1.06 123.79 1.94 123.79 3.04Z" fill="#E00000" fill-opacity="1.000000" fill-rule="nonzero"/>
+	<path id="Union" d="M124.78 3.04C124.78 4.68 123.45 6.01 121.81 6.01C120.17 6.01 118.84 4.68 118.84 3.04C118.84 1.4 120.17 0.07 121.81 0.07C123.45 0.07 124.78 1.4 124.78 3.04ZM125.74 3.53C125.5 5.48 123.83 7 121.81 7C119.79 7 118.13 5.48 117.88 3.53L-0.91 3.53L-0.91 2.54L117.88 2.54C118.13 0.59 119.79 -0.92 121.81 -0.92C123.83 -0.92 125.5 0.59 125.74 2.54L244.03 2.54L244.03 3.53L125.74 3.53Z" fill="url(#paint_linear_2_3196_0)" fill-opacity="1.000000" fill-rule="evenodd"/>
+</svg>
